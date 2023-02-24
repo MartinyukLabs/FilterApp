@@ -1,0 +1,17 @@
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\bin\Debug\net6.0\FilterApp.exe
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\bin\Debug\net6.0\FilterApp.deps.json
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\bin\Debug\net6.0\FilterApp.runtimeconfig.json
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\bin\Debug\net6.0\FilterApp.dll
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\bin\Debug\net6.0\FilterApp.pdb
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.dll
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\refint\FilterApp.dll
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.pdb
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\ref\FilterApp.dll
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ivan\source\repos\FilterApp\FilterApp\obj\Debug\net6.0\FilterApp.csproj.CopyComplete

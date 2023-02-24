@@ -1,0 +1,1 @@
+[{"Name":"Alex Klar","Salary":20000.0,"Experience":10},{"Name":"Tom Mayer","Salary":5000000.0,"Experience":0},{"Name":"Mary Co","Salary":2000.0,"Experience":1}]

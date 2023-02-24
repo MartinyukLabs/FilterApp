@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIDPNDeggVNF4ShyPQvTyd6K7jnjdBbDXobiZkq7Nk6b2oLcol5ZVNNcbzxqkfH/DeDq7u44x4QNKankuGnPCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\FilterApp\\FilterApp\\FilterApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
